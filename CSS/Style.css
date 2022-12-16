@@ -1,0 +1,32 @@
+html {
+}
+body {
+  background-color: rgb(250, 250, 250);
+}
+
+.shop {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+h4 {
+  text-align: center;
+  line-height: 0;
+}
+
+span {
+  background-color: rgb(254, 213, 50);
+}
+
+.SU {
+  border: 1px solid #ff4500;
+}
+
+.menu {
+  line-height: 0;
+}
+h5 {
+  font-size: "3";
+}
